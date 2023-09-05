@@ -12,4 +12,9 @@ I want to continue learning data visualization methodologies and techniques. Las
 ### Portfolio
 Below are assignments to _Telling Stories with Data_ course, but feel free to check out my design portfolio [here]
 
+# Assignment:Visualizing goverment debt
+Part 1
+
+<iframe src="https://data.oecd.org/chart/7aXS" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7aXS" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
+
   [here]: <http://www.taeyoungchang.com>
