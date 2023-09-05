@@ -21,4 +21,10 @@ Part 2
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/14928192"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+Part 3
+
+<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/14928571"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+I wanted to show a race of these countries over the course of 1995 to 2017. The chart is only showing the top 10 countries with the highest debt-to-gdp ratio. I couldn't figure out a way to directly import the data into the preset template. So I only showed 15 countries and did some manual data entry. The 15 countries shown are Austrailia, AUstria, Belgium, Canada, Czech Rep, Denmark, Finland, France, Germany, Greece, Hungary, Ireland, Italy, and Japan
+
   [here]: <http://www.taeyoungchang.com>
