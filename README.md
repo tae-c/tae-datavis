@@ -42,6 +42,7 @@ Tableau Exercise
 ### Assignment 3 & 4: Critique by Design
 
 #### Original visualization
+![tennis original chart!](https://github.com/tae-c/tae-datavis/assets/143672477/ad87f1dc-1ae7-4236-afbe-5b4bf6fdf910)
 The original visualization I worked to improve on was the "Surface Speeds" chart by [FiveThirtyEight]. I liked how they separated fastest, slowest, and other notable tournaments into different charts. It was easy to see those 3 categories at a glance, however as a viewer, I wanted the option to expand or see all the other tournaments as well. While informative, the charts are visually boring. I'd like to reimagine this chart into a more visually engaging graphic that is also interactive. I'm not sure if "years running" is important in this chart. As a viewer, I think the more important data points to highlight are the surface type and time added so that the viewers can immediately learn from the visualization that type of surface directly relates to how much time is being added per point.
 
 This selected chart is lacking color and design for sure. It's intended to be informative, so I think the creator had it in a simple chart view. I think there are some missed opportunities to drive other narratives because of its excel-like layout. Also the chart does not show all 205 tournaments and by doing so, viewers can't really see where on the spectrum hard court speeds fit in. I would show all 205 tournaments so that viewers can also visually see the ratio of different surfaces on pro tour.
