@@ -12,6 +12,8 @@ I want to continue learning data visualization methodologies and techniques. Las
 ### Portfolio
 Below are assignments to _Telling Stories with Data_ course, but feel free to check out my design portfolio [here]
 
+[Assignment: Visualizating government debt](https://tae-c.github.io/tae-datavis/#portfolio/assignment1/)
+
 ### Assignment:Visualizing goverment debt
 Part 1
 
