@@ -1,4 +1,4 @@
-| [home page](https://tae-c.github.io/tae-datavis/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://tae-c.github.io/tae-datavis/) | [visualizing debt](visualizing-debt) | [critique by design](critique-by-design) | [final project I](final-project-I) | [final project II](final-project-II) | [final project III](final-project-III) |
 
 # tae-datavis
 Portfolio for Telling Stories with Data
