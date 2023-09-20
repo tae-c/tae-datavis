@@ -1,3 +1,6 @@
+### Portfolio
+Below are assignments to _Telling Stories with Data_ course, but feel free to check out my design portfolio [here]
+
 | [home page](https://tae-c.github.io/tae-datavis/) | [visualizing debt](visualizing-debt) | [critique by design](critique-by-design) | [final project I](final-project-I) | [final project II](final-project-II) | [final project III](final-project-III) |
 
 # tae-datavis
@@ -10,11 +13,6 @@ Outside of design, i enjoy having nerdy discussions about watches and playing te
 
 ### What I hope to learn
 I want to continue learning data visualization methodologies and techniques. Last year, I was briefly exposed to data visualization, and it was definitely an area of discipline I was attracted to. Over my summer internship, the project I was working on involved designing a dashboard, and having an in-depth knowledge of this topic could have helped me drastically. I understand the importance of clear communication and data visualization is something I want to continue learning and improving on.
-
-### Portfolio
-Below are assignments to _Telling Stories with Data_ course, but feel free to check out my design portfolio [here]
-
-[Assignment: Visualizating government debt](https://tae-c.github.io/tae-datavis/#portfolio/assignment1/)
 
 ### Assignment:Visualizing goverment debt
 Part 1
