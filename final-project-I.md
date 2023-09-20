@@ -16,3 +16,5 @@ I've shown this sketch to a few people in my department, and the feedback was ve
 <div class="flourish-embed flourish-chart" data-src="visualisation/15043129"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 This was my redesigned visualization built on Flourish, and it is not exactly as I sketched it previously. I was not able to categorize the 4 surface types into different colors and display all the tournaments in one single view. Instead, I was able to figure out how to categorize the surfaces into different filter tabs so that the viewer can click through each surfaces and see how much time was being added or subtracted per point. I believe my original sketch idea, if executed, would do a better job of showing the relationship between match speed and court surface, because all of the 205 tournaments would be viewed in one single view.  
+
+  [FiveThirtyEight]: <https://fivethirtyeight.com/features/why-some-tennis-matches-take-forever/>
