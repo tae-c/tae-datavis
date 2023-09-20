@@ -1,3 +1,5 @@
+| [home page](https://tae-c.github.io/tae-datavis/) | [visualizing debt](visualizing-debt) | [critique by design](critique-by-design) | [final project I](final-project-I) | [final project II](final-project-II) | [final project III](final-project-III) |
+
 ### Assignment 3 & 4: Critique by Design
 
 #### Original visualization
