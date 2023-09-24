@@ -10,7 +10,7 @@ This is the rough draft of how I want to tell my story.
 ![sketch3](https://github.com/tae-c/tae-datavis/issues/1#issuecomment-1732682705)
 
 2. Diving into the struggles of working remotely. There are many factors reported by the participants on the struggles of working remotely, however, I will only highlight a few. To stay within my narrative, I want to highlight "loneliness", "lack of motivation", "difficult to focus", and "staying home too much & no reason to leave" With these data, I want to have these in large texts representing size to the percentage, similar to my sketch below.
-![(https://github.com/tae-c/tae-datavis/issues/1#issuecomment-1732682729)]
+![3](https://github.com/tae-c/tae-datavis/assets/143672477/610863fa-af6d-4c7d-9ebe-205beeeabf3b)
 
 3. Highlighting that people value work-life balance. When working remotely, 44% say they work more than they used to before and 1/5 people feel more burned out compared to 2022.
 
