@@ -1,1 +1,7 @@
 | [home page](https://tae-c.github.io/tae-datavis/) | [visualizing debt](visualizing-debt) | [critique by design](critique-by-design) | [final project I](final-project-I) | [final project II](final-project-II) | [final project III](final-project-III) |
+
+### Project outline
+
+I want this project to help my design thesis. As a 2nd year master's student in the school of design, I am spending this academic year conducting design research and writing a thesis. My thesis topic, which is still working in progress, is exploring how design can help combat workplace stress, improve self-determined motivation, and avoid burnout by helping coworkers build high quality relationships with one another. Consequently, I was looking for any datasets on employee stress, burnouts, workplace happiness, and etc. I came across a pretty robust survey done by Buffer on "State of Remote Work 2023". They seem to conduct a large survey every year across working employees across the world and publish the results. The results are composed of such variety of questions and there are just too many statistics. While useful on their own, I wanted to cherry pick certain results from their data and tell a story of workplace happiness through a scrollable story on Shorthand. This can be a very useful thing that I can use for my thesis to visualize the problem space.
+
+Because Buffer publishes "State of Remote Work" every year, I will also have access to see results from previous years so that I can also visualize certain trends that I want to showcase. 
