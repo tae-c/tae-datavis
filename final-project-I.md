@@ -7,10 +7,10 @@ I want for this project to serve as an aid for my design thesis. Currently in my
 This is the rough draft of how I want to tell my story.
 
 1. Acknowledging that remote/hybrid work is here to stay, but recognizing the need to be cautious. With survey results showing that 98% want to work in some remote capacity for the rest of their careers, it's certainly here to stay. I want to start the story with a simple line pie chart visualizing the percentages of remote workers who work remotely full-time, part-time (hybrid) or on occasion.
-![sketch3!](https://github.com/tae-c/tae-datavis/issues/1#issuecomment-1732682705)
+![sketch3](https://github.com/tae-c/tae-datavis/issues/1#issuecomment-1732682705)
 
 2. Diving into the struggles of working remotely. There are many factors reported by the participants on the struggles of working remotely, however, I will only highlight a few. To stay within my narrative, I want to highlight "loneliness", "lack of motivation", "difficult to focus", and "staying home too much & no reason to leave" With these data, I want to have these in large texts representing size to the percentage, similar to my sketch below.
-![sketch1!](https://github.com/tae-c/tae-datavis/issues/1#issuecomment-1732682729)
+![(https://github.com/tae-c/tae-datavis/issues/1#issuecomment-1732682729)]
 
 3. Highlighting that people value work-life balance. When working remotely, 44% say they work more than they used to before and 1/5 people feel more burned out compared to 2022.
 
