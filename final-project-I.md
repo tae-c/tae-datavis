@@ -5,6 +5,7 @@
 [Statista on benefits of remote work]
 [Statista on job satisfaction]
 [PRNewswire on job satisfaction]
+It was difficult to find datasets on topics relating to workplace stress, workplace satisfaction, burnout, employee happiness, and etc. Since many companies do not make those datasets public, the ones I could get my hands on were made up datasets on Kaggle that represent example HR metrics on employee attrition. I did not want to use any made up datasets, so I will be leveraging survey results from Buffer for my project. 
 
 ### Project outline
 
