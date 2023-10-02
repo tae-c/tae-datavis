@@ -47,27 +47,28 @@ Throughout the last 4 years of the same survey results, we can see that some of 
 ## User Interview Protocol
 
 ### Target Audience I hope to reach with my story
- Generally anyone in the US workforce who work remotely at least part-time during the week
+- Generally anyone in the US workforce who work remotely at least part-time during the week
 
 ### Approach to identifying representative individuals to interview
- Since my target audience is a relatively large subset of people it was not difficult to recruit individuals to interview. I deemed that it was valid to be a participant of my interview as long as the person has worked in a corporate setting before.
+- Since my target audience is a relatively large subset of people it was not difficult to recruit individuals to interview. I deemed that it was valid to be a participant of my interview as long as the person has worked in a corporate setting before.
 
 ### Interview Script
  
- #### Introduction
- "Today, we're going to see a story narrative with visuals, and your feedback will be invaluable in refining the narrative and visuals for our audience. Remember, there are no right or wrong answers. We're interested in your genuine thoughts and feelings."
+#### Introduction
+- "Today, we're going to see a story narrative with visuals, and your feedback will be invaluable in refining the narrative and visuals for our audience. Remember, there are no right or wrong answers. We're interested in your genuine thoughts and feelings."
 
 #### Setting context
-"Before we start, I want to explain at a high level what the visual narrative is about, and who I am. I am a Master’s student in the School of Design, and I am writing a research thesis this year on how design might help coworkers build high-quality relationships so that employee motivation is improved and burnouts are reduced over time."
-"This narrative will highlight the status of remote work in 2023, go over common struggles that people have in remote working, escalate the significance of workplace stress and burnouts in the modern day, and suggest a potential solution method for the problem space. Are we ready to begin?"
+- "Before we start, I want to explain at a high level what the visual narrative is about, and who I am. I am a Master’s student in the School of Design, and I am writing a research thesis this year on how design might help coworkers build high-quality relationships so that employee motivation is improved and burnouts are reduced over time."
+- "This narrative will highlight the status of remote work in 2023, go over common struggles that people have in remote working, escalate the significance of workplace stress and burnouts in the modern day, and suggest a potential solution method for the problem space. Are we ready to begin?"
 
 #### Presenting the story
-"Now I will walk through the story narrative along with its visuals. Please pay close attention and when it’s over, we can discuss your thoughts and impressions." _Walk through the story narrative_
+- "Now I will walk through the story narrative along with its visuals. Please pay close attention and when it’s over, we can discuss your thoughts and impressions."
+- _Walk through the story narrative_
 
 #### Follow-up questions
-"What are some of your immediate reactions to the story and the visuals you’ve seen?"
-"Were there any parts of the story or visuals that were confusing or unclear to you?"
-"Did the visuals complement the narrative? Why or why not?"
-"Was there a particular visual or segment that stood out, either positively or negatively?"
-"Are there any additional visuals or narrative elements you'd want to see included?"
-"Any other final thoughts?"
+- "What are some of your immediate reactions to the story and the visuals you’ve seen?"
+- "Were there any parts of the story or visuals that were confusing or unclear to you?"
+- "Did the visuals complement the narrative? Why or why not?"
+- "Was there a particular visual or segment that stood out, either positively or negatively?"
+- "Are there any additional visuals or narrative elements you'd want to see included?"
+- "Any other final thoughts?"
