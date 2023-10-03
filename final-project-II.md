@@ -72,3 +72,24 @@ Throughout the last 4 years of the same survey results, we can see that some of 
 - "Was there a particular visual or segment that stood out, either positively or negatively?"
 - "Are there any additional visuals or narrative elements you'd want to see included?"
 - "Any other final thoughts?"
+
+## User Research Results
+
+#### Interviewees
+For my user interviews, I've talked with 3 individuals who has worked remotely in a corporate setting or currently works. My first interviewee profiles are as below:
+
+- 29 yr old, ex-Google employee, currently works remotely for a start-up
+- 40 yr old, works in a hybrid environment for Fossil Group
+- 30 yr old, works in a hybrid environment for an interior design firm
+
+#### Insights
+Overall, the common feedback that I received about the general flow of the narrative was that it was clear, concise, and "made sense". My topic on workplace stress and remote work for the visualization was nothing novel for my interviewees, so it appeared to be very easy for them to follow along. Some general positive feedback I received were quotes like:
+
+- "The illustrations are nice"
+- "I like the use of the US map"
+- "The connections you are building through showing research articles makes it trustworthy"
+
+However, there were also constructive feedback that I need to consider moving forwards. One of the main constructive feedback was that my call-to-action was not too clear. My intention was to introduce what a potential solution could be-through building high-quality relationships among coworkers. However, my interviewees didn't see that clearly and were expecting a more concrete solution. This was great feedback for me, because I was feeling a little bit self-conscious about this exact portion of the narrative. I felt that my ending was too abrupt, and hearing feedback like this was definitely helpful for me to gameplan for moving forwards.
+
+#### What I plan to do
+In terms of overall structure and style of the narrative, I think I will continue to refine as I have them. However, I plan to take the feedback from my interviews regarding call to action and building it out further. I want to reference a recent interview conducted on senior partners at McKinsey discussing social capital and building better relationships at work. The interview talks not only about individual benefits of building social capital, but it also discusses how it benefits organizations as well. By leveraging this interview and pulling some of their insights into my narrative, I think I can make the resolution/CTA portion of my project more robust.
